@@ -7,9 +7,6 @@
 
 ### About Me
 
-<table width="100%" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none; padding-right: 20px;">
 
 javascript
 const erick = {
