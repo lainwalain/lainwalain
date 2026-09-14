@@ -11,9 +11,7 @@
 <table width="100%" style="border: none; background-color: transparent;">
   <tr>
     <td width="60%" style="border: none;">
-<div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg" alt="Banner de Erick" width="100%">
-</div> 
+
       
 ```javascript
 const erick = {
