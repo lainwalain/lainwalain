@@ -58,11 +58,9 @@ const erick = {
 
 ```
 
-```
   <br>
 </td>
 <td width="40%" style="border: none; text-align: center; vertical-align: middle;">
-  <img src="https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg" width="100%" alt="Erick's Profile Image">
+  <img src="https://storage.ko-fi.com/cdn/useruploads/display/13c7203a-d397-4047-8cbf-618630402ada_illustration_91.png)" width="100%" alt="Erick's Profile Image">
 </td>
 
-```
