@@ -1,12 +1,11 @@
 
-html
 <div align="center">
   <img src="https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg" alt="Banner de Erick" width="100%">
 </div>
 
 <br>
 
-### 🎯 About Me
+### About Me
 
 <table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
