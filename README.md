@@ -27,7 +27,7 @@ const erick = {
 
 </td>
 <td width="60%" align="center" valign="middle" style="border: none; padding: 10px;">
-  <img src="https://media.tenor.com/EnqObonBzPQAAAAM/lain.gif" width="220" height="220" style="object-fit: cover; border-radius: 8px;" alt="Erick's Profile Image">
+  <img src="https://pin.it/ToTKquYsB" width="220" height="220" style="object-fit: cover; border-radius: 8px;" alt="Erick's Profile Image">
 </td>
   </tr>
 </table>
