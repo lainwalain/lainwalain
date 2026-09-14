@@ -22,11 +22,8 @@ const erick = {
   },
   status: "Continuously developing projects ( •̀ ω •́ )✧",
   location: "Mexico"
-  // Bienvenido a la Wired //
+  // We are always connected//
 };
-
-
-
 
 </td>
 <td width="40%" style="border: none; text-align: center; vertical-align: middle;">
