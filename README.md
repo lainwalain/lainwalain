@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/258/2580.gif" alt="Banner de Erick" width="100%" height="200" style="border-radius: 8px; object-fit: cover;">
+  <img src="https://giffiles.alphacoders.com/258/2580.gif" alt="Banner de Erick" width="100%" height="300" style="border-radius: 8px; object-fit: cover;">
 </div>
 
 <br>
