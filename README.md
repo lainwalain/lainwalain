@@ -27,7 +27,7 @@ const erick = {
 
 </td>
 <td width="40%" style="border: none; text-align: center; vertical-align: middle;">
-  <img src="https://storage.ko-fi.com/cdn/useruploads/display/13c7203a-d397-4047-8cbf-618630402ada_illustration_91.png" width="300" height="100%" alt="Erick's Profile Image">
+  <img src="https://storage.ko-fi.com/cdn/useruploads/display/13c7203a-d397-4047-8cbf-618630402ada_illustration_91.png" width="200" height="70%" alt="Erick's Profile Image">
 </td>
   </tr>
 </table>
