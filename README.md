@@ -1,34 +1,80 @@
-# Hi there, I'm Erick Figueroa! 👋 ( •̀ ω •́ )✧
+<div align="center">
+  
+  <!-- BANNER SUPERIOR (Manos / The Wired) -->
+  <img src="https://i.pinimg.com/originals/cb/e5/bd/cbe5bdc3272d7f8ff38575a7b6cb0d53.gif" width="800">
+  
+  <br><br>
 
-### 👨‍💻 Sobre mí
-- 🎓 Soy **Estudiante de Ingeniería de Software**.
-- 🌐 **Desarrollador Web** enfocado en crear interfaces limpias y funcionales.
-- 🚀 Desarrollando proyectos continuamente para fortalecer mis habilidades.
-- ⚡ Pronombres: he/him
+  <h2>Hi, I am Lain. (Or a simulation of Lain.)</h2>
+  
+  <p>Data Flow Architect.</p>
+  <p>Constructing scalable realities.</p>
+  
+  <code>CODE. JUST. DATA.</code>
+</div>
 
----
+<br><br>
 
-### 🛠️ Tecnologías y Herramientas
+<div align="center">
+  <h3>🚀 About Me</h3>
+</div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin-right: 10px;" />
-</p>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; padding-right: 20px;">
+      <p><b>Fragments_of_Lain:</b> A consciousness within the network.</p>
+      <p>I craft neural links and maintain system stability..</p>
+      <!-- Cambié Python/FastAPI por HTML/CSS/JS basados en tu perfil, pero puedes volver a poner Python si lo prefieres -->
+      <p>Current nodes: [HTML, CSS, JavaScript, and human-protocols]..</p>
+      <p>Constructing the core, one node at a time.</p>
+    </td>
+    <td width="40%" style="border: none; text-align: center;">
+      <!-- IMAGEN DEL ASTRONAUTA / ROBOT -->
+      <img src="https://i.pinimg.com/originals/a0/0a/63/a00a631d87e07eb4cdbfdafa79cc7a67.gif" width="250">
+    </td>
+  </tr>
+</table>
 
----
+<br><br>
 
-### 📊 Estadísticas de GitHub
+<div align="center">
+  <h3>🤍 Connect</h3>
+  <a href="https://github.com/lainwalain">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lainwalain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Erick" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lainwalain&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub" />
-</p>
+<br><br>
 
----
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <!-- Iconos exactos al estilo de tu imagen -->
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,linux,docker,github,c,cpp,aws" />
+  </a>
+</div>
 
-### 📫 Conecta conmigo
+<br><br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eri.lyr1)
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=lainwalain&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3>📉 Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lainwalain&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
+
+<br>
+<div align="center">
+  <i>// Welcome to the Wired //</i>
+</div>
