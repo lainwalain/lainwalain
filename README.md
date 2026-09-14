@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
-  <img src="[https://i.imgur.com/2sA8Jif.png](https://pin.it/2C7OPHw3u)](https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg)" alt="Banner de Erick" width="100%">
+  <img src="https://i.imgur.com/2sA8Jif.png](https://pin.it/2C7OPHw3u)](https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg)" alt="Banner de Erick" width="100%">
 </div>
 
 <br>
