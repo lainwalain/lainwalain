@@ -33,3 +33,6 @@ const erick = {
 </table>
 
 <br>
+<div align="center">
+  <img src="https://media.tenor.com/qnnX05z0YhwAAAAM/serial-experiments-lain.gif" alt="Banner de Erick" width="100%" height="300" style="border-radius: 8px; object-fit: cover;">
+</div>
