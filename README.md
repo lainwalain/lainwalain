@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg" alt="Banner de Erick" width="100%" height="200">
+  <img src="https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg" alt="Banner de Erick" width="100%" height="200" style="border-radius: 8px; object-fit: cover;">
 </div>
 
 <br>
@@ -8,7 +8,7 @@
 
 <table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
-    <td width="60%" style="border: none; padding-right: 5px;">
+    <td width="60%" align="center" valign="middle" style="border: none; padding: 10px;">
 
 ```javascript
 const erick = {
@@ -26,8 +26,8 @@ const erick = {
 ```
 
 </td>
-<td width="40%" style="border: none; text-align: center; vertical-align: middle;">
-  <img src="https://storage.ko-fi.com/cdn/useruploads/display/13c7203a-d397-4047-8cbf-618630402ada_illustration_91.png" width="200" height="70%" alt="Erick's Profile Image">
+<td width="40%" align="center" valign="middle" style="border: none; padding: 10px;">
+  <img src="https://storage.ko-fi.com/cdn/useruploads/display/13c7203a-d397-4047-8cbf-618630402ada_illustration_91.png" width="220" height="220" style="object-fit: cover; border-radius: 8px;" alt="Erick's Profile Image">
 </td>
   </tr>
 </table>
