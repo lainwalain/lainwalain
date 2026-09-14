@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
-  <img src="https://i.imgur.com/2sA8Jif.png" alt="Banner de Erick" width="100%">
+  <img src="[https://i.imgur.com/2sA8Jif.png](https://pin.it/2C7OPHw3u)" alt="Banner de Erick" width="100%">
 </div>
 
 <br>
