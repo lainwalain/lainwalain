@@ -26,7 +26,7 @@ const erick = {
 ```
 
 </td>
-<td width="40%" align="center" valign="middle" style="border: none; padding: 10px;">
+<td width="60%" align="center" valign="middle" style="border: none; padding: 10px;">
   <img src="https://i.pinimg.com/originals/58/3c/b6/583cb61433bafaa324f421df97ec8ad2.gif" width="220" height="220" style="object-fit: cover; border-radius: 8px;" alt="Erick's Profile Image">
 </td>
   </tr>
