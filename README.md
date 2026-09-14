@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg" alt="Banner de Erick" width="50%">
+  <img src="https://w0.peakpx.com/wallpaper/372/609/HD-wallpaper-anime-serial-experiments-lain-lain-iwakura-thumbnail.jpg" alt="Banner de Erick" width="100%" height="250">
 </div>
 
 <br>
