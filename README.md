@@ -6,9 +6,7 @@
 
 ### About Me 
 
-<a href="#">
-  <img align="right" src="https://media1.tenor.com/m/BHWzXhUiDngAAAAd/lain-serial-experiments-lain.gif" width="220" height="220" style="object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 20px;" alt="Erick's Profile Image">
-</a>
+
 
 ```javascript
 const erick = {
