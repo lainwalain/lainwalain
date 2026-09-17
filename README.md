@@ -6,7 +6,7 @@
 
 ### About Me 
 
-<td width="60%" align="center" valign="middle" style="border: none; padding: 10px;">
+<td width="60%" align="center"  style="border: none; padding: 10px;">
   <img src="https://media1.tenor.com/m/BHWzXhUiDngAAAAd/lain-serial-experiments-lain.gif" width="220" height="220" style="object-fit: cover; border-radius: 8px;" alt="Erick's Profile Image">
 </td>
 
