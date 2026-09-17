@@ -4,9 +4,9 @@
 
 <br>
 
-### About Me
+### About Me 
 
-<table width="100%" style="border: none; background-color: transparent;">
+<table width="600px" style="border: none; background-color: transparent;">
   <tr style="border: none;">
     <td width="60%" align="center" valign="middle" style="border: none; padding: 10px;">
 
