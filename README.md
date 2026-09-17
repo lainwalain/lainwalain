@@ -6,9 +6,11 @@
 
 ### About Me 
 
-<table width="100%" style="border: none; background-color: transparent;">
+<table style="border: none; background-color: transparent; width: 100%;">
   <tr style="border: none;">
-    <td width="70%" align="center" valign="middle" style="border: none; padding: 10px;">
+    <td align="center" valign="middle" style="border: none; padding: 10px;">
+      <!-- TRUCO: Esta imagen es transparente pero fuerza el ancho de la columna del código -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="550" height="1" alt="">
 
 ```javascript
 const erick = {
