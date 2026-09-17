@@ -13,11 +13,11 @@
 ```javascript
 const erick = {
   role: "Software Engineering Student",
-  focus: "Web Developer",
+  focus: "Web Developer, ",
   pronouns: "he/him",
   skills: {
     frontend: ["HTML", "CSS", "JavaScript"],
-    tools: ["Git", "GitHub", "VS Code"]
+    tools: ["Git", "GitHub", "VS Code, Xcode, Unity"]
   },
   status: "Continuously developing projects ( •̀ ω •́ )✧",
   location: "Mexico"
