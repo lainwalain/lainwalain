@@ -1,5 +1,7 @@
+<div style="border: 2px solid #666; border-radius: 15px; padding: 20px;">
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/55/44/dd/5544dd23e23aaae4994cd8ab98382fd7.gif" alt="Banner de Erick" width="100%" height="300" style="border-radius: 8px; object-fit: cover;">
+  <img src="https://i.pinimg.com/originals/55/44/dd/5544dd23e23aaae4994cd8ab98382fd7.gif" alt="Banner superior" width="100%" height="300" style="border-radius: 8px; object-fit: cover;">
 </div>
 
 <br>
