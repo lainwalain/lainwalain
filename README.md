@@ -6,11 +6,9 @@
 
 ### About Me 
 
-<table style="border: none; background-color: transparent; width: 100%;">
-  <tr style="border: none;">
-    <td align="center" valign="middle" style="border: none; padding: 10px;">
-      <!-- TRUCO: Esta imagen es transparente pero fuerza el ancho de la columna del código -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="550" height="1" alt="">
+<a href="#">
+  <img align="right" src="https://media1.tenor.com/m/BHWzXhUiDngAAAAd/lain-serial-experiments-lain.gif" width="220" height="220" style="object-fit: cover; border-radius: 8px; margin-left: 20px; margin-bottom: 20px;" alt="Erick's Profile Image">
+</a>
 
 ```javascript
 const erick = {
