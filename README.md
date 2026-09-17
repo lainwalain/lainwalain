@@ -6,18 +6,18 @@
 
 ### About Me 
 
-<table width="600px" style="border: none; background-color: transparent;">
+<table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
-    <td width="60%" align="center" valign="middle" style="border: none; padding: 10px;">
+    <td width="70%" align="center" valign="middle" style="border: none; padding: 10px;">
 
 ```javascript
 const erick = {
   role: "Software Engineering Student",
-  focus: "Web Developer, ",
+  focus: "Web Developer",
   pronouns: "he/him",
   skills: {
     frontend: ["HTML", "CSS", "JavaScript"],
-    tools: ["Git", "GitHub", "VS Code, Xcode, Unity"]
+    tools: ["Git", "GitHub", "VS Code", "Xcode", "Unity"]
   },
   status: "Continuously developing projects ( •̀ ω •́ )✧",
   location: "Mexico"
